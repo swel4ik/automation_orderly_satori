@@ -21,3 +21,6 @@
 - **private_key**: приватный ключ
 - **user-agent**
 - **sec-ch-ua**
+## Запуск:
+1. `pip install -r requirements.txt`
+2. `python main.py`
